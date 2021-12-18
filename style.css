@@ -1,0 +1,19 @@
+body {
+    background-image: url('./assets/bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Pangolin', cursive;
+    font-size: large;
+    color : white;
+}
+
+.display_inline {
+    display: inline;
+    padding: 0.5em;
+}
+
+div {   
+    margin-bottom: 7.5px;
+    margin-right: 150px;
+    margin-left: 400px;    
+  }
